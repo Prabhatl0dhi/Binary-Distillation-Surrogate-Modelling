@@ -105,7 +105,6 @@ The repository includes both `data/Dataset.csv` and `data/dataset_cleaned.csv`. 
 
 The notebooks compare several regression approaches:
 
-- **Linear Regression**: interpretable baseline.
 - **Polynomial Regression**: captures smooth nonlinear relationships through polynomial features.
 - **Random Forest Regressor**: ensemble of decision trees for nonlinear interpolation.
 - **AdaBoost**: sequentially improves weak learners by focusing on difficult observations.
