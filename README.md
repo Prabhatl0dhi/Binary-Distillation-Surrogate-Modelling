@@ -1,4 +1,4 @@
-![Binary Distillation](refinary.jpg)
+![Binary Distillation](DistillationColumns.png)
 # Binary Distillation Surrogate Modelling: BENZENE-TOLUENE SYSTEM
 
 Machine-learning surrogate models for a benzene-toluene binary distillation column simulated in [DWSIM](https://dwsim.org/).
